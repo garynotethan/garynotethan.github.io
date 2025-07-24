@@ -20,6 +20,22 @@ body {
     align-self: center;
 }
 
+h1 {
+    font-size:20px;
+    margin:0px;
+}
+
+h2 {
+    font-size:17px;
+    margin: 0px;
+}
+
+img {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 /*
 ive never used @media before so we will see
 
